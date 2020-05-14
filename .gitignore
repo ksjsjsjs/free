@@ -47,7 +47,7 @@ function Squid(A0_24)
       gg.processKill()
       gg.setVisible(true)
     end
-    print("ã€°ã€°ã€°ã€°ã€°ã€°ã€°ã€°âš  ERROR DETECTEDã€°ã€°ã€°ã€°ã€°ã€°ã€°ã€°Restart Script â•")
+    print("〰〰〰〰〰〰〰〰⚠ ERROR DETECTED〰〰〰〰〰〰〰〰Restart Script ❕")
     return
   end
   _G["gg"]["removeListItems"](save)
@@ -57,12 +57,12 @@ os.remove('third_party.java_src.error_prone.project.annotations.Google_internal'
 os.remove('src/main/java/com/google/errorprone/annotations')
 os.remove('src/main/java/com/google/errorprone/annotations.Google_internal')
 gg.clearResults()
-Criox = gg.choice({"ðŸ”¥ AntiBan Lobi",
-"ðŸ”¥ Anten",
-"ðŸ”¥ Sekmeme",
-"ðŸ”¥ Kafadan Vurma",
-"ðŸ”¥ HÄ±zlÄ± ParaÅŸÃ¼t"
-}, nil, "ðŸ’¢ Script Criox YT")
+Criox = gg.choice({"🔥 AntiBan Lobi",
+"🔥 Anten",
+"🔥 Sekmeme",
+"🔥 Kafadan Vurma",
+"🔥 Hızlı Paraşüt"
+}, nil, "💢 Script Criox YT")
 if Criox == nil then
 else
 if Criox == 1 then
@@ -85,7 +85,7 @@ gg.searchNumber("-298841599", 4, false, 536870912, 0, -1)
 gg.getResults(5)
 gg.editAll("0", 4)
 gg.clearResults()
-gg.toast('ðŸ’ª Less Recoil')
+gg.toast('💪 Less Recoil')
 end
 if Criox == 4 then
 gg.clearResults()
@@ -95,7 +95,7 @@ gg.searchNumber("25;30.5", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
 gg.getResults(100)
 gg.editAll("250", gg.TYPE_FLOAT)
 gg.clearResults()
-gg.toast('ðŸ’ª HeadShot %99')
+gg.toast('💪 HeadShot %99')
 end
 if Criox == 5 then
 gg.setRanges(gg.REGION_C_BSS)
@@ -113,7 +113,7 @@ end
 end
 
 function whclr()
-CrioxWH = gg.multiChoice({"ðŸ”¥ WallHack & Color"," ðŸ”¥ Fix Scope","ðŸ”™ Back"}, nil, "ðŸ’š WallHack & Color")
+CrioxWH = gg.multiChoice({"🔥 WallHack & Color"," 🔥 Fix Scope","🔙 Back"}, nil, "💚 WallHack & Color")
 if CrioxWH == nil then
 else
 if CrioxWH[1] == true then
@@ -143,7 +143,7 @@ gg.searchNumber("2", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
 gg.getResults(15)
 gg.editAll("130", gg.TYPE_FLOAT)
 gg.clearResults()
-gg.toast('ðŸ’ª Fix Scope')
+gg.toast('💪 Fix Scope')
 end
 
 function bypass()
@@ -183,16 +183,16 @@ TG = gg.makeRequest("https://hastebin.com/raw/beyalixugu").content
 if not TG then
 gg.alert('Something Went Wrong')
 os.exit()
-elseï»¿
+else﻿
 pcall(load(TG))
-endï»¿
+end﻿
 gg.clearResults()
 os.remove('src/main/java/com/google/errorprone/annotations')
 os.remove('third_party.java_src.error_prone.project.annotations.Google_internal')
 os.remove('src/main/java/com/google/errorprone/annotations')
 os.remove('src/main/java/com/google/errorprone/annotations.Google_internal')
 gg.clearResults()
-gg.alert('ðŸ’ª Bypass Successfully')
+gg.alert('💪 Bypass Successfully')
 end
 
 function wh()
@@ -215,7 +215,7 @@ gg.refineAddress("0B0")
 gg.getResults(1000)
 gg.editAll("6", 4)
 gg.clearResults()
-gg.toast('ðŸ’ª WallHack & Color')
+gg.toast('💪 WallHack & Color')
 end
 
 while true do
